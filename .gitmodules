@@ -1,0 +1,3 @@
+[submodule "parent-project/shopizer"]
+	path = parent-project/shopizer
+	url = https://github.com/shopizer-ecommerce/shopizer.git
