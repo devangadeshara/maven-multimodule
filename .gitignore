@@ -35,4 +35,4 @@ buildNumber.properties
 hs_err_pid*
 
 #shopizer project
-/parent-project/shopizer/
+#/parent-project/shopizer/
