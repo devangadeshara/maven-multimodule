@@ -785,8 +785,9 @@
           
     <module>shopizer</module>
     
-    <module>webapp</module>
-	
+    
+
+    <module>demo</module>	
       
   </modules>
     
